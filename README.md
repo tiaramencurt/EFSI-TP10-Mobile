@@ -1,4 +1,3 @@
-```markdown
 # TP10 - Repaso Pos Vacaciones (Explorador de Pokémon)
 
 ## Integrantes
@@ -105,7 +104,5 @@ index.js
 
 * **Lo más sencillo**: Reutilizar la lógica de JavaScript pura (`useState`, `useEffect`, métodos de arrays como `filter` y `map`) y el consumo de la API con `axios`, ya que funciona exactamente igual en ambos entornos.
 * **Lo más complejo**: Adaptar la maquetación web a los componentes nativos de React Native (`View`, `Text`, `FlatList`, `Pressable`), además de pasar de hojas de estilo CSS tradicionales al modelo de `StyleSheet.create` basado estrictamente en Flexbox.
-
-```
 
 ```
